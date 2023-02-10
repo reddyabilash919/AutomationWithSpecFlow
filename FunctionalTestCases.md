@@ -16,6 +16,7 @@
 
 * **Ted Lovers** is a promo program with code **TedCard**
 
+
 ## 1. Login Page
 
 * Validate successful login for valid username and password
@@ -154,8 +155,8 @@
 
 * Verify successful ticket confirmation details message is sent to guest user
 * Verify successful ticket confirmation details message is sent to registered user 
-* Verify response time for sending ticket confirmation details message to guest user under different load conditions
-* Verify response time for sending ticket confirmation details message to registered under different load conditions
+* Verify response time for sending ticket confirmation details message to guest users under different load conditions
+* Verify response time for sending ticket confirmation details message to registered users under different load conditions
 
 
 ## We had a third-party payment service agreement with CBA but unfortunately they don't have a testing env for us to integrate with. What will be your approach to test it.

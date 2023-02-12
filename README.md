@@ -22,7 +22,7 @@ This document provides an overview of how to set up and run the SpecFlow Automat
 ## Installation
 
 1. Clone the project from git repository
-2. Open the solution in Visual studio 2022
+2. Open the solution **AutomationFrameworkWithSpecFlow.sln** in Visual studio 2022
 3. Restore the NuGet packages by right-clicking on the solution and selecting **Restore NuGet Packages**.
 
 ## Running the Tests

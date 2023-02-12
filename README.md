@@ -10,6 +10,7 @@ This document provides an overview of how to set up and run the SpecFlow Automat
 
 1. .NET Core 3.1 or later
 2. Visual Studio 2022
+3. Git 
 
 
 ## Tools
